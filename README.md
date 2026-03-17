@@ -1,4 +1,4 @@
-# nNCore API v1.0
+# NN-Core API v1.0
 
 A pixel-based Display Entity GUI framework for Minecraft using `TextDisplay` and `Interaction` entities. 
 
@@ -10,14 +10,14 @@ Built on a **True-Pixel Bottom-Center** layout engine. 1 unit of measurement equ
 
 **plugin.yml**
 ```yaml
-depend: [nNCore]
+depend: [NN-Core]
 ```
 
 **Maven (pom.xml)**
 ```xml
 <repository>
-    <id>your-repo-id</id>
-    <url>https://repo.yourdomain.com/releases</url>
+    <id>neyji-repo</id>
+    <url>[https://neyji.github.io/NN-Core-Releases/](https://neyji.github.io/NN-Core-Releases/)</url>
 </repository>
 
 <dependency>
