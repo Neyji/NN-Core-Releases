@@ -17,7 +17,7 @@ depend: [NN-Core]
 ```xml
 <repository>
     <id>neyji-repo</id>
-    <url>[https://neyji.github.io/NN-Core-Releases/](https://neyji.github.io/NN-Core-Releases/)</url>
+    <url>https://neyji.github.io/NN-Core-Releases/</url>
 </repository>
 
 <dependency>
@@ -31,7 +31,7 @@ depend: [NN-Core]
 **Gradle (build.gradle)**
 ```gradle
 repositories {
-    maven { url = uri("[https://neyji.github.io/NN-Core-Releases/](https://neyji.github.io/NN-Core-Releases/)") }
+    maven { url = uri("https://neyji.github.io/NN-Core-Releases/") }
 }
 
 dependencies {
